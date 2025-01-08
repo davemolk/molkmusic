@@ -405,3 +405,11 @@ a.logo:focus {
 .theory {
   text-align: left; 
 }
+
+.theory p {
+  white-space:pre-wrap;
+}
+
+.composition {
+  text-align: left;
+}
